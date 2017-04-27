@@ -51,11 +51,11 @@ Combine grid-of10 with the 12-column Basscss Grid classes in responsive layouts.
 
 ```html
 <div class="flex flex-wrap">
-  <div class="col-12 md-gridof10-2 border">.md-gridof10-2</div>
-  <div class="col-12 md-gridof10-2 border">.md-gridof10-2</div>
-  <div class="col-12 md-gridof10-2 border">.md-gridof10-2</div>
-  <div class="col-12 md-gridof10-2 border">.md-gridof10-2</div>
-  <div class="col-12 md-gridof10-2 border">.md-gridof10-2</div>
+  <div class="col-12 md-gridof10-2 border">.col-12 .md-gridof10-2</div>
+  <div class="col-12 md-gridof10-2 border">.col-12 .md-gridof10-2</div>
+  <div class="col-12 md-gridof10-2 border">.col-12 .md-gridof10-2</div>
+  <div class="col-12 md-gridof10-2 border">.col-12 .md-gridof10-2</div>
+  <div class="col-12 md-gridof10-2 border">.col-12 .md-gridof10-2</div>
 </div>
 ```
 
