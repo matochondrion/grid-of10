@@ -38,11 +38,11 @@ Apply a 5-column grid from the small breakpoint and up with the `.sm-gridof10-2`
 
 ```html
 <div class="flex flex-wrap">
-  <div class="gridof10-1 sm-gridof10-2 border">.gridof10-1 .sm-gridof10-2</div>
-  <div class="gridof10-1 sm-gridof10-2 border">.gridof10-1 .sm-gridof10-2</div>
-  <div class="gridof10-1 sm-gridof10-2 border">.gridof10-1 .sm-gridof10-2</div>
-  <div class="gridof10-1 sm-gridof10-2 border">.gridof10-1 .sm-gridof10-2</div>
-  <div class="gridof10-1 sm-gridof10-2 border">.gridof10-1 .sm-gridof10-2</div>
+  <div class="gridof10-10 sm-gridof10-2 border">.gridof10-10 .sm-gridof10-2</div>
+  <div class="gridof10-10 sm-gridof10-2 border">.gridof10-10 .sm-gridof10-2</div>
+  <div class="gridof10-10 sm-gridof10-2 border">.gridof10-10 .sm-gridof10-2</div>
+  <div class="gridof10-10 sm-gridof10-2 border">.gridof10-10 .sm-gridof10-2</div>
+  <div class="gridof10-10 sm-gridof10-2 border">.gridof10-10 .sm-gridof10-2</div>
 </div>
 ```
 
