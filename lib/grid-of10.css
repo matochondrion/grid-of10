@@ -1,0 +1,39 @@
+.col-1of10 {
+  width: calc(1/10 * 100%);
+}
+
+.col-2of10 {
+  width: calc(2/10 * 100%);
+}
+
+.col-3of10 {
+  width: calc(3/10 * 100%);
+}
+
+.col-4of10 {
+  width: calc(4/10 * 100%);
+}
+
+.col-5of10 {
+  width: calc(5/10 * 100%);
+}
+
+.col-6of10 {
+  width: calc(6/10 * 100%);
+}
+
+.col-7of10 {
+  width: calc(7/10 * 100%);
+}
+
+.col-8of10 {
+  width: calc(8/10 * 100%);
+}
+
+.col-9of10 {
+  width: calc(9/10 * 100%);
+}
+
+.col-10of10 {
+  width: 100%;
+}

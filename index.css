@@ -1,0 +1,10 @@
+/* grid-of10 for Basscss */
+
+@import "./lib/grid-of10";
+@import "./lib/sm-grid-of10";
+@import "./lib/md-grid-of10";
+@import "./lib/lg-grid-of10";
+
+@custom-media --breakpoint-sm (min-width: 40em);
+@custom-media --breakpoint-md (min-width: 52em);
+@custom-media --breakpoint-lg (min-width: 64em);

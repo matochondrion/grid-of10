@@ -1,0 +1,26 @@
+{
+  "name": "grid-of10",
+  "version": "1.0.0",
+  "description": "Responsive columns based on a 10-column grid (so 5-columns as well) and compatible with Basscss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matochondrion/grid-of10.git"
+  },
+  "keywords": [
+    "Basscss",
+    "10-column",
+    "5-column",
+    "responsive",
+    "flex"
+  ],
+  "author": "Mat Sachs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matochondrion/grid-of10/issues"
+  },
+  "homepage": "https://github.com/matochondrion/grid-of10#readme"
+}
