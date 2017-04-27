@@ -1,5 +1,5 @@
 # grid-of10
-This module contains responsive columns based on a 10-column grid (so 5-columns as well) and compatible with Basscss. The default Basscss 12-column grid is great, but sometimes a **5 or 10 column layout** is needed.
+An add-on module for Basscss. Includes responsive 10-column grid classes (so 5-columns as well). The default Basscss 12-column grid is great, but sometimes a **5 or 10 column layout** is needed.
 
 
 ## 10-column layout
