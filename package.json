@@ -17,7 +17,7 @@
     "responsive",
     "flex"
   ],
-  "author": "Mat Sachs",
+  "author": "Mat Sachs <matochondrion@gmail.com> (http://www.matsachs.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/matochondrion/grid-of10/issues"
