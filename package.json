@@ -2,9 +2,15 @@
   "name": "grid-of10",
   "version": "1.0.0",
   "description": "Responsive columns based on a 10-column grid (so 5-columns as well) and compatible with Basscss.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "mkdir -p css && postcss index.css -u postcss-import -u postcss-custom-media -u postcss-custom-properties -u autoprefixer -o css/grid-of10.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.1",
+    "postcss-cli": "^2.5.0",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-custom-properties": "^5.0.0",
+    "postcss-import": "^8.0.2"
   },
   "repository": {
     "type": "git",
