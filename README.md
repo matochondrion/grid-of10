@@ -6,16 +6,16 @@ An add-on module for Basscss. Includes responsive 10-column grid classes (so 5-c
 
 ```html
 <div class="flex flex-wrap">
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
-  <div class="gridof10-10 border">.gridof10-10</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
+  <div class="gridof10-1 border">.gridof10-1</div>
 </div>
 ```
 
