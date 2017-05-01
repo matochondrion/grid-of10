@@ -60,5 +60,34 @@ Combine grid-of10 with the 12-column Basscss Grid classes in responsive layouts.
 ```
 
 ---
+## Install
+
+```sh
+npm --save-dev grid-of10
+```
+
+## Usage
+
+### PostCSS
+
+```css
+@import 'grid-of10';
+```
+
+## Notes
+This is module is meant to be an add-on for Basscss. To use, first install a Basscss project ([Basscss](https://github.com/basscss/basscss/), [Bassplate](https://github.com/basscss/bassplate), [Ace](https://github.com/basscss/ace), etc... ) with NPM, and then include `@import 'grid-of10';` in the source css file.
+
+These examples assume the document's box-sizing has been set to _border-box_ using a method similar to [CSS-Tricks](https://css-tricks.com/box-sizing/)...
+
+```css
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+```
+
+---
 
 MIT license
