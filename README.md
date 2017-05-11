@@ -96,7 +96,5 @@ html {
 }
 ```
 
-https://unpkg.com/grid-of10@2.0.5/css/grid-of10.css
 ---
-
 MIT license
