@@ -66,6 +66,13 @@ Combine grid-of10 with the 12-column Basscss Grid classes in responsive layouts.
 npm --save-dev grid-of10
 ```
 
+## CDN Link
+Or use the [CDN Link](https://unpkg.com/grid-of10/css/grid-of10.css)
+
+```html
+<link href="https://unpkg.com/grid-of10/css/grid-of10.css" rel="stylesheet">
+```
+
 ## Usage
 
 ### PostCSS
@@ -74,6 +81,7 @@ npm --save-dev grid-of10
 @import 'grid-of10';
 ```
 
+---
 ## Notes
 This module is meant to be an add-on for Basscss. To use, first install a Basscss project ([Basscss](https://github.com/basscss/basscss/), [Bassplate](https://github.com/basscss/bassplate), [Ace](https://github.com/basscss/ace), etc... ) with NPM, and then include `@import 'grid-of10';` in the source css file.
 
@@ -88,6 +96,7 @@ html {
 }
 ```
 
+https://unpkg.com/grid-of10@2.0.5/css/grid-of10.css
 ---
 
 MIT license
