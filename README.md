@@ -81,8 +81,6 @@ Or use the [CDN Link](https://unpkg.com/grid-of10/css/grid-of10.css)
 @import 'grid-of10';
 ```
 
----
-## Notes
 This module is meant to be an add-on for Basscss. To use, first install a Basscss project ([Basscss](https://github.com/basscss/basscss/), [Bassplate](https://github.com/basscss/bassplate), [Ace](https://github.com/basscss/ace), etc... ) with NPM, and then include `@import 'grid-of10';` in the source css file.
 
 These examples assume the document's box-sizing has been set to _border-box_ using a method similar to [CSS-Tricks](https://css-tricks.com/box-sizing/)...
